@@ -1,0 +1,166 @@
+#content{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+#div2{
+    border: 2px solid #847c85;
+    width: 210px;
+    height: 97px;
+}
+#div2:hover{
+    background-color: #847c85;
+    color: white;
+}
+#div2 span{
+   font-size: 17px;
+   margin-left: 7px;
+    font-style: italic;
+}
+#div2 h2{
+    text-align: center;
+    font-family: 'Comfortaa', cursive;
+    font-weight: bold;
+}
+
+#hr{
+    color: rgb(57,141,250);
+    size: 400px;
+}
+
+
+ 
+ #p1{
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: 20px;
+    font-family: 'Marcellus SC', serif;
+ }
+ #span1{
+    color: crimson;
+    margin-left: 25px;
+    font-size: 19px;
+    font-family: 'Marcellus SC', serif;
+   
+ }
+ .menu {
+    margin-left: 300px;
+    margin-top: 30px;
+ }
+ .menu a{
+    text-decoration: none;
+ }
+ .menu a button{
+    margin: 0px 15px;
+    width: 150px;
+    height: 45px;
+    background-color: #847c85;
+    color: #fff;
+    font-size: 17px;
+    font-family: 'Kanit', sans-serif;
+    border: 0.5px gray;
+ }
+ .menu a button:hover{
+    transition: 0.4s ease-in-out;
+    opacity: 0.8;
+    background-color: white;
+    color: black;
+    border: 1.5px solid gray;
+    border-radius: 2.5px;
+ }
+
+ #print{
+    width: 180px;
+ }
+ 
+#m{
+    background-color: rgba(9, 0, 0, 0.71);
+    height: 100%;
+    width: 100%;
+    position:absolute;
+    top: 0px;
+
+}
+#form{
+    border: none;
+    margin-left: 400px;
+    margin-top: 250px;
+    width: 600px;
+    height: 340px;
+    box-shadow: 0px 3px 3px 1px lightslategray;
+    background-color:#ffffff;
+   
+}
+
+
+#res{
+    padding-top: 25px;
+    text-align: center;
+    color: #847c85;
+    font-family: 'Righteous', cursive;
+    font-weight: bold;
+
+}
+#lab{
+    color: #847c85;
+    font-family: 'Allerta Stencil', sans-serif;
+    margin-left: 55px;
+    padding-right: 10px;
+    font-size: 17px;
+    letter-spacing: 1.5px;
+    font-weight: bold;
+}
+#input{
+    margin-left: 20px;
+}
+input[type="number"]::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+#buttons{
+    margin-left: 190px;
+    margin-top: 20px;
+}
+#buttons button{
+    width: 120px;
+    height: 35px;
+    font-size: 17px;
+    color: #847c85;
+    font-weight: bold;
+    border: 3px solid gray;
+}
+#buttons button:hover{
+    background-color: rgb(101, 237, 101);
+    border: 1px solid lightgray;
+    color: white;
+}
+#buttons button:last-of-type:hover{
+    background-color: rgb(246, 6, 6);
+    border: 1px solid lightgray;
+    color: white;
+}
+#inp{
+    width: 150px;
+    height: 35px;
+    font-size: 24px;
+    padding-left: 50px;
+    outline-color:#847c85;
+    color: rgb(14, 13, 13);
+}
+#date{
+   top: 90px;
+}
+#ph{
+    color: rgb(11, 11, 11);
+    font-weight: bold;
+    margin-left: 10px;
+    font-family: 'Marcellus SC', serif;
+}
+#remove{
+   color: rgb(255, 0, 0);
+   margin-left: 540px;
+}
+#date1{
+    margin-left: 5px;
+}

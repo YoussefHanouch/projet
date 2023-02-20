@@ -1,0 +1,44 @@
+#content{
+display: flex;
+   
+}
+#div1{
+    border: 1px solid black;
+    width: 210px;
+    height: 82px;
+}
+#div1 span{
+   font-size: 15px;
+   margin-left: 7px;
+}
+#div1 h2{
+    text-align: center;
+}
+#div2{
+    border: 1px solid black;
+    width: 210px;
+    height: 82px;
+}
+#hr{
+    color: rgb(57,141,250);
+    size: 400px;
+}
+#div2 span{
+    font-size: 15px;
+    margin-left: 7px;
+ }
+ #div2 h2{
+     text-align: center;
+ }
+#div3{
+    border: 1px solid black;
+    width: 210px;
+    height: 82px;
+}
+#div3 span{
+    font-size: 15px;
+    margin-left: 7px;
+ }
+ #div3 h2{
+     text-align: center;
+ }
